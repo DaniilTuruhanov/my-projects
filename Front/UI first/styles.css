@@ -1,0 +1,202 @@
+body{
+   height: auto;
+   background: linear-gradient(to top left, powderblue, pink);
+
+}
+.nameapp{
+   color:black; 
+   float: left;
+   margin-Left:3%; 
+  font-size: 200%;
+  color: blue;
+  font-family: "Times New Roman", Georgia, Serif;
+
+}
+.user{
+   float: right;
+   padding-right:30%; 
+   font-size: 200%;
+   margin-top: 1.5%; 
+}
+
+header{
+   height: 80px  ;
+   width: auto;
+   border: solid;
+   background:  white;
+   border-color: blue;
+
+}
+footer{
+   position: relative;
+   margin-top:5%; 
+   height: 150px  ;
+   width: auto;
+   background:  white;
+   border: solid;
+   border-color: blue;
+  
+
+}
+div{
+   border-radius: 10px;
+   font-size: 115%;
+}
+.input{
+   float: right;
+}
+.add{
+   
+   margin-top:5%; 
+   height: 60px  ;
+   width: 25%;
+   border: inset;
+   border-color: purple;
+   background: white;
+  
+}
+.add_photo{
+   font-size: 150%;
+   vertical-align: middle;
+   float: right;
+   margin-top: 6%;
+   margin-right: 3%;
+   font-family: "Monotype Corsiva" Cursive;
+
+  
+}
+.filter{
+   font-size: 116%;
+   border: double;
+   background-color: whitesmoke;
+   border-color: gray;
+   margin-top: 5%;
+   height: 45%  ;
+   width: 21%;
+   float: left;
+
+
+}
+.namefilter{
+   position: relative;
+  margin: 0 auto;
+  margin-top: 2%;
+   border: double;
+   border-color: cadetblue;
+   
+   font-family: "Times New Roman", Georgia, Serif;
+   height: 8%  ;
+   width: 55%;
+   text-align: center;
+  
+}
+.filters{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left:5%;
+   border: double;
+   font-family: "Times New Roman", Georgia, Serif;
+   height: 30px;
+   width: 87%;
+   font-size: 110%;
+
+}
+.photo{
+float: right;
+border-color:black; 
+ border: double;
+ 
+height: 100%;
+width: 45%;
+margin-right: 20%;
+margin-top: 5%;
+background-color: whitesmoke;
+ }
+.photouser{
+   float: right;
+   color:black; 
+   float: left;
+   padding-Left:3%; 
+   padding-top:5%; 
+  font-size: 90%;
+
+}
+.data{
+   float: right;
+   vertical-align: middle;
+   padding-right:5%; 
+   font-size: 110%
+}
+.userinfo{
+   float: left;
+   vertical-align: middle;
+   font-size: 110%;
+   margin-left: 4%;
+}
+.info{
+
+height: 30px;
+width: 100%;
+
+}
+.BSU{
+   height: 5%;
+   width: 31.1%;
+}
+.building{
+   border-color:black; 
+   border-bottom: double;
+   border-top: double;  
+}
+.bin{
+   float: right;
+   margin-right: 2%;
+}
+.hide{
+   font-size: 130%;
+   margin-left: 3%;
+   margin-top: 2%;
+}
+.button{
+   height: 40px;
+   width: 10%;
+   margin-bottom: 1.5%;
+   border: white;
+   background: white;
+}
+.addlogo{
+   padding-top: 2%;
+   padding-bottom: 2%;
+}
+.logo{
+   margin-left: 1.5%;  
+   margin-top: 1%; 
+}
+.out{
+   float: right;
+   margin-top: 1%; 
+}
+.textarea{
+   float: right;
+   margin-right: 20%;
+   width: 45%;
+   height: 5%;
+   font-size: 120%;
+   margin-top: 2%;
+   background-color: whitesmoke;
+   border-radius: 10px;
+}
+.download{
+   position: relative;
+   margin-top:5%; 
+   height: 70px  ;
+   border-radius: 10px;
+   width: 80%;
+   background:  white;
+   border: solid;
+   font-size: 140%;
+   border-color: blue;
+   margin-left: 10%;
+  
+
+}

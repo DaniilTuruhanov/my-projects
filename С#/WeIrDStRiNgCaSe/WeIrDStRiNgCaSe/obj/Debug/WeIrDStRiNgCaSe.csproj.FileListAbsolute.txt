@@ -1,0 +1,7 @@
+D:\Уник\С#\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\WeIrDStRiNgCaSe.exe.config
+D:\Уник\С#\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\WeIrDStRiNgCaSe.exe
+D:\Уник\С#\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\bin\Debug\WeIrDStRiNgCaSe.pdb
+D:\Уник\С#\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\WeIrDStRiNgCaSe.csprojAssemblyReference.cache
+D:\Уник\С#\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\WeIrDStRiNgCaSe.csproj.CoreCompileInputs.cache
+D:\Уник\С#\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\WeIrDStRiNgCaSe.exe
+D:\Уник\С#\WeIrDStRiNgCaSe\WeIrDStRiNgCaSe\obj\Debug\WeIrDStRiNgCaSe.pdb

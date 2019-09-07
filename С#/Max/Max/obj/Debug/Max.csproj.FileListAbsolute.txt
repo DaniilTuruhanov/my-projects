@@ -1,0 +1,7 @@
+D:\Уник\С#\Max\Max\bin\Debug\Max.exe.config
+D:\Уник\С#\Max\Max\bin\Debug\Max.exe
+D:\Уник\С#\Max\Max\bin\Debug\Max.pdb
+D:\Уник\С#\Max\Max\obj\Debug\Max.csprojAssemblyReference.cache
+D:\Уник\С#\Max\Max\obj\Debug\Max.csproj.CoreCompileInputs.cache
+D:\Уник\С#\Max\Max\obj\Debug\Max.exe
+D:\Уник\С#\Max\Max\obj\Debug\Max.pdb

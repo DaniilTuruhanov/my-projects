@@ -1,0 +1,7 @@
+D:\Уник\С#\Scramblies\Scramblies\obj\Debug\Scramblies.csprojAssemblyReference.cache
+D:\Уник\С#\Scramblies\Scramblies\obj\Debug\Scramblies.csproj.CoreCompileInputs.cache
+D:\Уник\С#\Scramblies\Scramblies\bin\Debug\Scramblies.exe.config
+D:\Уник\С#\Scramblies\Scramblies\bin\Debug\Scramblies.exe
+D:\Уник\С#\Scramblies\Scramblies\bin\Debug\Scramblies.pdb
+D:\Уник\С#\Scramblies\Scramblies\obj\Debug\Scramblies.exe
+D:\Уник\С#\Scramblies\Scramblies\obj\Debug\Scramblies.pdb

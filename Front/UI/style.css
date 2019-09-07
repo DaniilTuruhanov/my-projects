@@ -1,0 +1,332 @@
+body {
+  height: auto;
+  background: linear-gradient(to top left, powderblue, pink);
+}
+
+.nameapp {
+  color: black;
+  float: left;
+  margin-Left: 3%;
+  font-size: 200%;
+  color: blue;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+.user {
+  /* position: relative; */
+  padding-right: 10%;
+  margin-top: 0;
+  float: right;
+  padding-top: 2%;
+  font-size: 5vw;
+}
+
+header {
+  height: 8vw;
+  max-height: 100px;
+  width: auto;
+  border: solid;
+  background: white;
+  border-color: blue;
+}
+
+footer {
+  margin-top: 2vw;
+  margin-bottom: 10px;
+  margin-right: 3px;
+  height: 10vh;
+  width: 100%;
+  background: white;
+  border: solid;
+  border-color: blue;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+div {
+  border-radius: 10px;
+  font-size: 115%;
+}
+
+.input {
+  float: right;
+}
+
+.add {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 2vw;
+  position: fixed;
+  top: 10%;
+  margin-top: 5%;
+  /* height: 10vh; */
+  width: 25vw;
+  border: inset;
+  border-color: purple;
+  background: white;
+}
+
+.add_photo {
+  font-family: "Monotype Corsiva"Cursive;
+}
+
+.filter {
+  font-size: 2vw;
+  border: double;
+  background-color: whitesmoke;
+  border-color: gray;
+  margin-top: 5%;
+  /* height: 45%; */
+  width: 25vw;
+  position: fixed;
+  top: 32%;
+}
+
+.namefilter {
+  position: relative;
+  margin: 0 auto;
+  margin-top: 2%;
+  border: double;
+  border-color: cadetblue;
+  font-family: "Times New Roman", Georgia, Serif;
+  /* height: 8%; */
+  width: 55%;
+  text-align: center;
+}
+
+.filters1 {
+  margin-top: 10%;
+  /* margin-bottom: 10%; */
+  margin-left: 5%;
+  border: double;
+  font-family: "Times New Roman", Georgia, Serif;
+  /* height: 30px; */
+  width: 87%;
+  font-size: 2vw;
+}
+
+.photo {
+  margin-left: 34.5vw;
+  border-color: black;
+  border: double;
+  height: 100%;
+  width: 45%;
+  margin-right: 20%;
+  margin-top: 5%;
+  background-color: whitesmoke;
+}
+
+.photouser {
+  float: right;
+  color: black;
+  float: left;
+  padding-Left: 3%;
+  padding-top: 5%;
+  font-size: 2vw;
+}
+
+.data {
+  float: right;
+  vertical-align: middle;
+  padding-right: 5%;
+  font-size: 2vw;
+}
+
+.userinfo {
+  float: left;
+  vertical-align: middle;
+  font-size: 2vw;
+  margin-left: 4%;
+}
+
+.info {
+  height: 30px;
+  width: 100%;
+}
+
+.BSU {
+  height: 5%;
+  width: 31.1%;
+}
+
+.building {
+  border-color: black;
+  border-bottom: double;
+  border-top: double;
+}
+
+.bin {
+  width: 3vw;
+  height: 3vh;
+  float: right;
+  margin-right: 2%;
+  position: relative;
+}
+
+.hide {
+  font-size: 2vw;
+  margin-left: 3%;
+  position: relative;
+  /* margin-top: 1%; */
+}
+
+.button {
+  height: 40px;
+  width: 10%;
+  margin-bottom: 1.5%;
+  border: white;
+  background: white;
+}
+
+.addlogo {
+  height: 8vw;
+  max-height: 100px;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.logo {
+  margin-left: 1.5%;
+  margin-top: 1%;
+}
+
+.logIn {
+  /* display: grid; */
+  padding-top: 1vw;
+  display: none;
+}
+
+.logIn input{
+
+}
+
+.toLog{
+  float: right;
+  margin-top: 1%;
+  position: relative;
+  height: 8vw;
+  /* margin-right: 10vw; */
+  max-height: 100px;
+}
+
+.textarea {
+  margin-left: 34.5vw;
+  margin-right: 20%;
+  width: 45%;
+  height: 5%;
+  font-size: 2vw;
+  margin-top: 2%;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+
+.download {
+  position: relative;
+  margin-top: 5%;
+  height: 70px;
+  border-radius: 10px;
+  width: 80%;
+  background: white;
+  border: solid;
+  font-size: 2vw;
+  border-color: blue;
+  margin-left: 10%;
+}
+
+.setting {
+  width: 3vw;
+  height: 3vh;
+  position: relative;
+}
+
+.heart {
+  width: 3vw;
+  height: 3vh;
+  position: relative;
+}
+
+.user1 {
+  font-size: 5vw;
+}
+
+.num {
+  font-size: 3vw;
+}
+
+.word {
+  font-size: 2vw;
+}
+
+.add-photo {
+  margin-top: 5vw;
+}
+
+.adding {
+  position: fixed;
+  top:8vw;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  border: 2px outset;
+  height: 50vw;
+  width: 60vw;
+  max-height: 80vh;
+  left: 30vw;
+  background-color: #fcf;
+  z-index: 999;
+  display: none;
+  /* margin-top: 2vw; */
+}
+
+.confirm-add{
+  margin-left: 10vw;
+margin-top: 3vw;
+}
+
+.adding img {
+  width: 30vw;
+}
+
+.adding textarea {
+  margin-top: 5vw;
+  width: 90%;
+  height: 40%;
+  margin-bottom: 5vw;
+}
+
+
+.paste {
+  position: fixed;
+  top:8vw;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  border: 2px outset;
+  height: 50vw;
+  width: 60vw;
+  max-height: 80vh;
+  left: 30vw;
+  background-color: #fcf;
+  z-index: 999;
+  display: none;
+  /* margin-top: 2vw; */
+}
+
+.paste img{
+  margin-top: 5vw;
+}
+
+.confirm-paste{
+  margin-left: 10vw;
+margin-top: 3vw;
+}
+
+.paste img {
+  width: 30vw;
+}
+
+.paste textarea {
+  margin-top: 5vw;
+  width: 90%;
+  height: 40%;
+  margin-bottom: 5vw;
+}

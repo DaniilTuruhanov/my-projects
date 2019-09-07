@@ -1,0 +1,7 @@
+D:\Уник\С#\SortByBits\SortByBits\bin\Debug\SortByBits.exe.config
+D:\Уник\С#\SortByBits\SortByBits\bin\Debug\SortByBits.exe
+D:\Уник\С#\SortByBits\SortByBits\bin\Debug\SortByBits.pdb
+D:\Уник\С#\SortByBits\SortByBits\obj\Debug\SortByBits.csprojAssemblyReference.cache
+D:\Уник\С#\SortByBits\SortByBits\obj\Debug\SortByBits.csproj.CoreCompileInputs.cache
+D:\Уник\С#\SortByBits\SortByBits\obj\Debug\SortByBits.exe
+D:\Уник\С#\SortByBits\SortByBits\obj\Debug\SortByBits.pdb

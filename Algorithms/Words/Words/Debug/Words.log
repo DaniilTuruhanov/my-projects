@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\labs\words\words\source.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs\words\words\source.cpp(39): warning C4715: find: значение возвращается не при всех путях выполнения
+  Words.vcxproj -> D:\Labs\Words\Debug\Words.exe

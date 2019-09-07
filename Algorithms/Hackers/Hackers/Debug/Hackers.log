@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\labs\hackers\hackers\source.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs\hackers\hackers\source.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs\hackers\hackers\source.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs\hackers\hackers\source.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs\hackers\hackers\source.cpp(97): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs\hackers\hackers\source.cpp(166): warning C4018: <: несоответствие типов со знаком и без знака
+  Hackers.vcxproj -> D:\Labs\Hackers\Debug\Hackers.exe

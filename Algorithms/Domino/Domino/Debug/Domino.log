@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\labs\domino\domino\source.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs\domino\domino\source.cpp(53): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  Domino.vcxproj -> D:\Labs\Domino\Debug\Domino.exe

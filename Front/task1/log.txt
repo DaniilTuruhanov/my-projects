@@ -1,0 +1,12 @@
+$ git log
+commit 75e5ec40751d9e6faf240f566747c10223f6fd42 (HEAD -> master)
+Author: Turuhanov Daniil <tjurjukhanovdm@mail.ru>
+Date:   Sun Feb 17 21:40:57 2019 +0300
+
+    add task1
+
+commit 133fa195bbc96e3e937c101498dfac8af653a64e
+Author: Turuhanov Daniil <tjurjukhanovdm@mail.ru>
+Date:   Sun Feb 17 21:37:40 2019 +0300
+
+    add .gitignore

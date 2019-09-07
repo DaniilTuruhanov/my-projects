@@ -1,0 +1,7 @@
+D:\Уник\С#\DoubleCola\DoubleCola\bin\Debug\DoubleCola.exe.config
+D:\Уник\С#\DoubleCola\DoubleCola\bin\Debug\DoubleCola.exe
+D:\Уник\С#\DoubleCola\DoubleCola\bin\Debug\DoubleCola.pdb
+D:\Уник\С#\DoubleCola\DoubleCola\obj\Debug\DoubleCola.csprojAssemblyReference.cache
+D:\Уник\С#\DoubleCola\DoubleCola\obj\Debug\DoubleCola.csproj.CoreCompileInputs.cache
+D:\Уник\С#\DoubleCola\DoubleCola\obj\Debug\DoubleCola.exe
+D:\Уник\С#\DoubleCola\DoubleCola\obj\Debug\DoubleCola.pdb
